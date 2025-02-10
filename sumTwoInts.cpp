@@ -15,7 +15,9 @@ int main() {
     cout << "What's your second favorite number?" << endl;
     cin >> num2;
 
-    cout << "Your two favorite numbers when combined creates: " << num1 + num2 << "!" << endl;
+    int sum = num1 + num2;
+
+    cout << "Your two favorite numbers when combined creates: " << sum << "!" << endl;
 
     return 0;
 }
