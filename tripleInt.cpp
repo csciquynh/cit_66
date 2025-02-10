@@ -11,7 +11,9 @@ int main() {
     cout << "What's your favorite number?" << endl;
     cin >> num;
 
-    cout << "Your favorite number when tripled becomes: " << num * 3 << "!" << endl;
+    int tripled = num * 3;
+    
+    cout << "Your favorite number when tripled becomes: " << tripled << "!" << endl;
 
     return 0;
 }
