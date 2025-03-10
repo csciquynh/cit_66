@@ -1,0 +1,30 @@
+Animal Report: 
+
+hyena:
+Kamari, 4
+Kamari, 12
+Kamari, 4
+Kamari, 8
+Count: 4
+
+lion:
+Mufasa, 6
+Mufasa, 12
+Mufasa, 22
+Mufasa, 4
+Count: 4
+
+bear:
+Pooh, 7
+Pooh, 25
+Pooh, 4
+Pooh, 4
+Count: 4
+
+tiger:
+Tigger, 2
+Tigger, 4
+Tigger, 18
+Tigger, 3
+Count: 4
+
